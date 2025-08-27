@@ -2586,6 +2586,11 @@
     display: inline-flex;
   }
 
+	/* Ensure request tab is always visible */
+	#requestTab {
+	  display: inline-flex !important;
+	}
+
   /* Rounded header buttons */
 
   .headerTabs,
