@@ -2599,6 +2599,7 @@
       border-radius: var(--rounding-circle) !important;
       color: rgba(var(--darkest)) !important;
       backdrop-filter: blur(50px) !important;
+	  margin-top: -5em
   }
 
   .homeLibraryText, .emby-button-foreground {
