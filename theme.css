@@ -1431,12 +1431,7 @@
     top: 0;
   }
   .mediaSourceIndicator {
-	  border-radius: var(--rounding) 0px !important;
-	  box-shadow: -1px 1px 5px 1px rgba(var(--darkest),.5);
-	  background: rgba(var(--accent),1);
-	  color: rgb(var(--darkest));
-	  left: 0;
-    top: 0;
+	  display: none !important;
   }
   .videoIndicator {
     border-radius: 0px var(--rounding) !important;
