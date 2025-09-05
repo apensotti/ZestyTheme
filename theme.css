@@ -16,10 +16,6 @@
     --rounding-circle: 100px;
   }
 
-  .btnUserRating {
-  	display: none;
-  }
-
   /*Style backdrop*/
   .backdropImage {
     filter: blur(6px) saturate(120%) contrast(120%) brightness(40%);
@@ -2384,7 +2380,7 @@
     display: block;
 }
 
-.btnUserRating {
+.btnUserRating, .buttons.focuscontainer-x {
 	display: none;
 }
   /* adds top padding to right click dialogs 
