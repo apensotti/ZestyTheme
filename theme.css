@@ -2399,7 +2399,7 @@
   }
 
 .btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x {
-    display: inline-flex;
+    display: block;
 }
   /* adds top padding to right click dialogs 
   .dialogContainer .focuscontainer.actionsheet-not-fullscreen.actionSheet.centeredDialog {
