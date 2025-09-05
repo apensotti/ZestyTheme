@@ -2971,11 +2971,6 @@
 	  margin-right: .6em !important;
   }
 
-  .layout-mobile .btnShuffle,
-  .layout-desktop .btnShuffle {
-    display: inline-flex;
-  }
-
   .layout-mobile .material-icons.detailButton-icon.play_arrow {
     color: rgb(var(--darkest)) !important;
   }
