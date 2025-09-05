@@ -2394,12 +2394,8 @@
 	  border-radius: var(--rounding-large) !important;
   }
 
-.btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x .btnUserRating {
+.btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x {
     display: inline-flex;
-}
-
-.btnPreviousChapter, .btnNextChapter {
-	display: none;
 }
   /* adds top padding to right click dialogs 
   .dialogContainer .focuscontainer.actionsheet-not-fullscreen.actionSheet.centeredDialog {
