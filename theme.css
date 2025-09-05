@@ -32,24 +32,6 @@
 
   /*  ###### Desktop Layout ##### */
 
-
-  .sliderMarker {
-  padding-top: 1px;
-  }
-  
-  /* enables playbar markers & sets above playbar */
-  .sliderMarker.watched {
-	  background-color: #000;
-	  z-index: 10;
-	  position: absolute;
-  }
-
-  .sliderMarker.unwatched {
-	  background-color: #fff;  
-	  z-index: 10;
-	  position: absolute;
-  }
-
   .layout-desktop .detailLogo {
     left: 5%;
     background-position: left;
@@ -2398,7 +2380,7 @@
 	  border-radius: var(--rounding-large) !important;
   }
 
-.btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x {
+.btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x {
     display: block;
 }
   /* adds top padding to right click dialogs 
