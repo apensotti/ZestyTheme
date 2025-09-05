@@ -16,6 +16,10 @@
     --rounding-circle: 100px;
   }
 
+  .btnUserRating {
+  	display: none !important;
+  }
+
   /*Style backdrop*/
   .backdropImage {
     filter: blur(6px) saturate(120%) contrast(120%) brightness(40%);
