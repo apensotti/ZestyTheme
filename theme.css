@@ -17,7 +17,7 @@
   }
 
   .btnUserRating {
-  	display: none !important;
+  	display: none;
   }
 
   /*Style backdrop*/
@@ -2382,6 +2382,10 @@
 
 .btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x {
     display: block;
+}
+
+.btnUserRating {
+	display: none;
 }
   /* adds top padding to right click dialogs 
   .dialogContainer .focuscontainer.actionsheet-not-fullscreen.actionSheet.centeredDialog {
