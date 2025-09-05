@@ -33,6 +33,11 @@
     background-position: left;
   }
 
+  .layout-mobile .btnShuffle,
+  .layout-desktop .btnShuffle {
+    display: block;
+  }
+
   .detailLogo {
 	  height: 16vh;
 	  position: absolute;
