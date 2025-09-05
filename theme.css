@@ -223,7 +223,6 @@
   }
 
   /* text layout - from Zombie */
-  .layout-desktop .btnShuffle,
   .layout-desktop .listViewUserDataButtons,
   .layout-desktop .material-icons.detailButton-icon.check,
   .layout-desktop .material-icons.detailButton-icon.favorite,
@@ -3303,7 +3302,6 @@
       mask-composite: intersect;
     }
     /* text layout - from Zombie */
-    .layout-mobile .btnShuffle,
     .layout-mobile .listViewUserDataButtons,
     .layout-mobile .material-icons.detailButton-icon.check,
     .layout-mobile .material-icons.detailButton-icon.favorite,
@@ -3665,7 +3663,6 @@
       justify-content: unset;
     }
     /* text layout - from Zombie */
-    .layout-mobile .btnShuffle,
     .layout-mobile .listViewUserDataButtons,
     .layout-mobile .material-icons.detailButton-icon.check,
     .layout-mobile .material-icons.detailButton-icon.favorite,
@@ -3947,7 +3944,6 @@
 }
 
   /* text layout - from Zombie */
-  .layout-tv .btnShuffle,
   .layout-tv .listViewUserDataButtons,
   .layout-tv .material-icons.detailButton-icon.check,
   .layout-tv .material-icons.detailButton-icon.favorite,
