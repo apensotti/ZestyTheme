@@ -314,10 +314,6 @@
 
   /* Hide shuffle and replay buttons in media page */
 
-  .btnShuffle, .btnReplay {
-    display: none;
-  }
-
   /* change Rating star, color */
   .starIcon {
       color: rgba(var(--honey-yellow), 0.8);
@@ -2076,14 +2072,6 @@
 	  background: rgba(var(--dark),.8);
 	  border-radius: var(--rounding);
 	  color: rgba(var(--accent));
-  }
-
-
-  /* Hide extra buttons in media player */
-
-
-  .btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x .btnUserRating {
-    display: flex;
   }
 
 
