@@ -2083,7 +2083,7 @@
 
 
   .btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x .btnUserRating {
-    display: true;
+    display: flex;
   }
 
 
