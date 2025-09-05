@@ -2379,6 +2379,10 @@
 .btnPreviousChapter, .btnNextChapter {
 	display: none;
 }
+
+.btnSuffle {
+	display: inline-flex;
+}
   /* adds top padding to right click dialogs 
   .dialogContainer .focuscontainer.actionsheet-not-fullscreen.actionSheet.centeredDialog {
 	  padding-top: 5.5px;
