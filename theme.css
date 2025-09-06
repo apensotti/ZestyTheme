@@ -2380,7 +2380,7 @@
     display: block;
 }
 
-.btnUserRating, .buttons.focuscontainer-x {
+.btnUserRating {
 	display: none;
 }
   /* adds top padding to right click dialogs 
