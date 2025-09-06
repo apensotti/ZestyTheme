@@ -2376,7 +2376,7 @@
 	  border-radius: var(--rounding-large) !important;
   }
 
-.btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack, .buttons.focuscontainer-x {
+.btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack .buttons.focuscontainer-x {
     display: block;
 }
 
