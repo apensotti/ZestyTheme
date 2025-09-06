@@ -2377,7 +2377,7 @@
   }
 
 .btnPreviousChapter, .btnNextChapter, .btnRewind, .btnFastForward, .btnPreviousTrack .buttons.focuscontainer-x {
-    display: flex;
+    display: inline;
 }
 
 .btnUserRating {
